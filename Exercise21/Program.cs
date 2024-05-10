@@ -6,7 +6,7 @@ public class Exercise21 {
     {
         int a, b;
         int result; 
-
+                
         Console.WriteLine("\nInput a:"); // Prompting the user to input an integer
         a = Convert.ToInt32(Console.ReadLine()); // Reading the first integer input provided by the user
 
